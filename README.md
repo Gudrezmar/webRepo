@@ -3,3 +3,4 @@
 - [ ] Zusammenfassung generieren
 - [ ] Dokumentation generieren
 - [x] Anleitung: **webRepo** im Browser öffnen
+- [ ] Deploy
